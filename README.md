@@ -1,4 +1,4 @@
 # -demokj
 this is my first repository
 <br>
-Author- Kush Jajoo
+Author- Kush shreeram  Jajoo
